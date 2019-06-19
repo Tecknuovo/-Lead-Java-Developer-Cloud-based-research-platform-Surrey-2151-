@@ -1,10 +1,10 @@
-# -Lead-Java-Developer-Cloud-based-research-platform-Surrey-2151
+# Lead-Java-Developer-Cloud-based-research-platform-Surrey-2151
 
 # Stack: Java, Microservices, AWS, JavaScript, React, Docker, 
 
 # Are you a senior developer who wants to build leadership experience?  
 
-If you are an experienced Senior Java developer in working in or around Surrey who is interested in building our experience of technically leading small cross functional squads then this role could be for you. Working on a cloud based platform that allows researchers to easily save, store, share and collaborate over their findings this company have recently attracted a serious investor and as such are looking to rapidly ramp up their development capabilities. As part of that hiring they want to build out a new squad and are looking for a leader. 
+If you are an experienced Senior Java developer in working in or around Surrey who is interested in building up experience of technically leading small cross functional squads then this role could be for you. Working on a cloud based platform that allows researchers to easily save, store, share and collaborate over their findings this company have recently attracted a serious investor and as such are looking to rapidly ramp up their development capabilities. As part of that hiring they want to build out a new squad and are looking for a leader. 
 
 # What would you be doing? 
 
